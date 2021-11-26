@@ -1,0 +1,21 @@
+<div id="migration-page">
+    <div class="page-header">
+        <div class="current-title title">Migration</div>
+        <div class="redirect-icon"><a href="{{ setting_url }}" title="Setting"><span class="icon-setting"></span></a></div>
+    </div>
+    {{ html_content }}
+</div>
+<script type="text/javascript">
+    $(document).ready(function(){
+        $.MigrationData({
+            {{ js_config }}
+            url: '{{ process_url }}',
+            request_post: {
+                action_type: 'import'
+            },
+            request_download: {
+                action_type: 'download'
+            }
+        });
+    });
+</script>
