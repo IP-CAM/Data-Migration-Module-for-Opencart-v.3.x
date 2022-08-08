@@ -17,5 +17,5 @@
  */
 
 // Heading
-$_['heading_title']     = 'Data Migration';
+$_['heading_title']     = 'D2dSoft Data Migration';
 $_['text_extension']    = 'Extensions';
