@@ -185,6 +185,16 @@ class ControllerExtensionModuleD2dDatamigration extends Controller {
         return true;
     }
 
+    public function install(){
+        $this->load->model('setting/setting');
+        $this->model_setting_setting->editSetting('module_d2d_datamigration', array('module_d2d_datamigration_status' => 1));
+    }
+
+    public function uninstall(){
+        $this->load->model('setting/setting');
+        $this->model_setting_setting->deleteSetting('module_d2d_datamigration');
+    }
+
     /* @TODO: PROCESS */
 
     protected function renderPage($template, $data = array()){
