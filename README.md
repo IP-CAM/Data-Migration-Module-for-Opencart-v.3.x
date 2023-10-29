@@ -3,6 +3,7 @@
 
 ## Products
 - [AmeriCommerce to OpenCart Migration](https://d2d-soft.com/opencart-migration/774-7251-americommerce-to-opencart-migration-module.html#/72-entities-1000)
+- [Bagisto to OpenCart Migration](https://d2d-soft.com/opencart-migration/940-8959-bagisto-to-opencart-migration-module.html#/72-entities-1000)
 - [BigCommerce to OpenCart Migration](https://d2d-soft.com/opencart-migration/417-1687-bigcommerce-to-opencart-migration-module.html#/72-entities-1000)
 - [CS-Cart to OpenCart Migration](https://d2d-soft.com/opencart-migration/327-1402-cs-cart-to-opencart-migration-module.html)
 - [CubeCart to OpenCart Migration](https://d2d-soft.com/opencart-migration/56-207-cubecart-to-opencart-migration-module.html)
@@ -34,6 +35,7 @@
 
 ## Supported Platforms
 - [AmeriCommerce](https://www.americommerce.com/)
+- [Bagisto](https://bagisto.com/)
 - [BigCommerce](https://www.bigcommerce.com/)
 - [CS-Cart](https://www.cs-cart.com/)
 - [CubeCart](https://www.cubecart.com/)
