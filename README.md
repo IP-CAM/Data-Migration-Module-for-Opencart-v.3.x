@@ -20,6 +20,7 @@
 - [Magento to OpenCart Migration](https://d2d-soft.com/opencart-migration/58-217-magento-to-opencart-migration-module.html)
 - [MarketPress to OpenCart Migration](https://d2d-soft.com/opencart-migration/571-2407-marketpress-to-opencart-migration-module.html#/72-entities-1000)
 - [OpenCart to OpenCart Migration](https://d2d-soft.com/opencart-migration/59-222-opencart-to-opencart-migration-module.html)
+- [osCMax to OpenCart Migration](https://d2d-soft.com/opencart-migration/1194-11548-oscmax-to-opencart-migration-module.html#/72-entities-1000)
 - [osCommerce to OpenCart Migration](https://d2d-soft.com/opencart-migration/60-227-oscommerce-to-opencart-migration-module.html)
 - [OXID-eShop to OpenCart Migration](https://d2d-soft.com/opencart-migration/61-233-oxid-eshop-to-opencart-migration-module.html)
 - [PrestaShop to OpenCart Migration](https://d2d-soft.com/opencart-migration/62-237-prestashop-to-opencart-migration-module.html)
@@ -55,6 +56,7 @@
 - [Magento](https://magento.com/)
 - MarketPress
 - [OpenCart](https://www.opencart.com/)
+- osCMax
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
